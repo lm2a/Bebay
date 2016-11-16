@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bebay</string>
+    <string name="audio_status_recording">Recording</string>
+    <string name="audio_status_stopped">Not Recording</string>
+</resources>
